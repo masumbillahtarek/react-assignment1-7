@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken Teriyaki",
+    "recipe_image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "description": "A savory grilled chicken recipe with a rich teriyaki glaze.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "2 tbsp honey",
+      "1 tsp ginger",
+      "1 garlic clove"
+    ],
+    "preparing_time": 30 ,
+    "calories": 320 
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Beef Stroganoff",
+    "recipe_image": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+    "description": "Classic Russian dish of sautéed beef in a creamy sauce.",
+    "ingredients": [
+      "500 g beef sirloin",
+      "1 onion",
+      "200 g mushroom",
+      "100 ml sour cream",
+      "1 tbsp flour"
+    ],
+    "preparing_time": 40,
+    "calories": 450 
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Thai Green Curry",
+    "recipe_image": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+    "description": "Spicy and flavorful green curry with coconut milk.",
+    "ingredients": [
+      "400 g chicken",
+      "2 tbsp green curry paste",
+      "250 ml coconut milk",
+      "100 g basil leaves",
+      "1 green chili"
+    ],
+    "preparing_time": 35,
+    "calories": 370 
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetarian Pasta Primavera",
+    "recipe_image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "description": "Healthy pasta loaded with fresh vegetables.",
+    "ingredients": [
+      "250 g pasta",
+      "1 zucchini",
+      "100 g cherry tomatoes",
+      "50 g spinach",
+      "2 tbsp olive oil"
+    ],
+    "preparing_time": 25 ,
+    "calories": 280 
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Mushroom Risotto",
+    "recipe_image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+    "description": "Creamy Italian rice dish with mushrooms.",
+    "ingredients": [
+      "300 g arborio rice",
+      "400 g mushroom",
+      "1 onion",
+      "1 liter vegetable stock",
+      "2 tbsp parmesan"
+    ],
+    "preparing_time": 45 ,
+    "calories": 390 
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Tuna Nicoise Salad",
+    "recipe_image": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+    "description": "French-style salad with tuna, eggs, green beans, and olives.",
+    "ingredients": [
+      "150 g tuna",
+      "2 boiled eggs",
+      "100 g green beans",
+      "1 tomato",
+      "10 olives"
+    ],
+    "preparing_time": 20,
+    "calories": 350
+  }
+]

@@ -1,0 +1,7 @@
+th,td{
+    border-left: 2px solid blue;
+     border-right: 2px solid blue;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+}
